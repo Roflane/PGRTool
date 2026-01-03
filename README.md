@@ -20,7 +20,8 @@ Chart feature only works with → https://sourceforge.net/projects/gnuplot/.
 1. Unarchive files from Release and keep them in one folder altogether
 1. Install gnuplot
 2. Run .bat file once (It simply adds gnuplot to environment variables)
-3. Done
+3. Open *PGRToolCfg.ini* and paste your path to PGR.exe (ex: C:\Punishing Gray Raven\Punishing Gray Raven\PGR.exe)
+4. Done
 
 ## Menu
 Press END key to open the menu.
