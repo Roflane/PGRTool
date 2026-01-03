@@ -28,6 +28,9 @@ Press END key to open the menu.
 ## Chart
 DPS Chart saves to *PGRTool Records* folder.
 
+### Known issues
+Loading PGRTool may fail loading, in this case you can keep trying open it again and eventually it will load.
+
 ### Regarding security
 There are no cases of banning for my software, long time tested. <br>
 But you take risks of using it, anyways.
