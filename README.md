@@ -23,15 +23,15 @@ Chart feature only works with → https://sourceforge.net/projects/gnuplot/.
 3. Open *PGRToolCfg.ini* and paste your path to PGR.exe (ex: C:\Punishing Gray Raven\Punishing Gray Raven\PGR.exe)
 4. Done
 
-## Menu
+### Menu
 Press END key to open the menu.
 
-## Chart
+### Chart
 DPS Chart saves to *PGRTool Records* folder.
 
 ### Known issues
 Loading PGRTool may fail loading, in this case you can keep trying open it again and eventually it will load.
 
-### Regarding security
+## Regarding security
 There are no cases of banning for my software, long time tested. <br>
 But you take risks of using it, anyways.
