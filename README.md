@@ -17,14 +17,15 @@ The tool for Punishing: Gray Raven (Global) that provides following features:
 
 ### Prerequisites
 Chart feature only works with → https://sourceforge.net/projects/gnuplot/.
+1. Unarchive files from Release and keep them in one folder altogether
 1. Install gnuplot
 2. Run .bat file once (It simply adds gnuplot to environment variables)
 3. Done
 
-### Menu
+## Menu
 Press END key to open the menu.
 
-### Chart
+## Chart
 DPS Chart saves to *PGRTool Records* folder.
 
 ### Regarding security
