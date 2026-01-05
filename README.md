@@ -5,6 +5,8 @@ The tool for Punishing: Gray Raven (Global) that provides following features:
 3. DPS History
 4. DPS Meter
 5. DPS Chart
+6. Indicators editing
+7. Menu themes
    
 <h4 align="center">DPS Meter</h4>
 <p align="center">
