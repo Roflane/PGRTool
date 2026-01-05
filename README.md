@@ -21,10 +21,9 @@ The tool for Punishing: Gray Raven (Global) that provides following features:
 ### Prerequisites
 Chart feature only works with → https://sourceforge.net/projects/gnuplot/.
 1. Unarchive files from Release and keep them in one folder altogether
-1. Install gnuplot
-2. Run .bat file once (It simply adds gnuplot to environment variables)
-3. Open *PGRToolCfg.ini* and paste your path to PGR.exe (ex: C:\Punishing Gray Raven\Punishing Gray Raven\PGR.exe)
-4. Done
+1. Install gnuplot; Donэt move the gnuplot directory upon install
+2. Open *PGRToolCfg.ini* and paste your path to PGR.exe. (ex: C:\Punishing Gray Raven\Punishing Gray Raven\PGR.exe)
+3. Done
 
 ### Menu
 Press END key to open the menu.
