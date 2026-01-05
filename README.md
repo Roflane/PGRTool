@@ -2,8 +2,9 @@
 The tool for Punishing: Gray Raven (Global) that provides following features:
 1. Show FPS
 2. FPS Unlocker
-3. DPS Meter
-4. DPS Chart
+3. DPS History
+4. DPS Meter
+5. DPS Chart
    
 <h4 align="center">DPS Meter</h4>
 <p align="center">
